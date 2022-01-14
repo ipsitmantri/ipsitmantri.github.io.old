@@ -2,6 +2,7 @@
 layout: page
 title: Notes
 permalink: /notes/
+mathjax: true
 ---
 I have made notes for some of the courses that I took at [Indian Institute of Technology Bombay](https://www.iitb.ac.in){:target="_blank"} during my undergrad.
 

@@ -26,11 +26,17 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "ipsitmantri.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: SriIpsit
 github_username:  ipsitmantri
+linkedin_username: Ipsit Mantri
+expanded_email: ipsit [DOT] iitb [AT] gmail [DOT] com
+author: 
+  name: Ipsit
+  email: ipsit.iitb@gmail.com
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.
