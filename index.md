@@ -10,4 +10,4 @@ layout: home
 On this website I host the lecture [notes](/notes) that I make.
 My personal website has moved [here](https://sites.google.com/view/ipsitmantri/){:target="_blank"}. 
 
-If you want to offer me a job, here are is my [CV](https://bit.ly/ipsitcv){:target="_blank"}
+If you want to offer me a job, here is my [CV](https://bit.ly/ipsitcv){:target="_blank"}
